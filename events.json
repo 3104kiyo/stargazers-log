@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "JavaScript",
+    "stars": 2180,
+    "url": "https://github.com/octocat/Hello-World",
+    "starredAt": "2026-08-28"
+  },
+  {
+    "repository": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "stars": 186000,
+    "url": "https://github.com/torvalds/linux",
+    "starredAt": "2026-08-21"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 175000,
+    "url": "https://github.com/microsoft/vscode",
+    "starredAt": "2026-08-14"
+  },
+  {
+    "repository": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 105000,
+    "url": "https://github.com/rust-lang/rust",
+    "starredAt": "2026-08-05"
+  }
+]
